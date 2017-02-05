@@ -1,2 +1,3 @@
 # ELTDM
-Projet d'elements logiciels pour les données massives
+Projet d'elements logiciels pour le traitement des données massives
+
